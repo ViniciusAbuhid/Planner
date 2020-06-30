@@ -11,9 +11,9 @@ Projeto semana n°12: Planner
 
 <p align="center">Planner designado para que o usuário possa dividir as tarefas dele conforme o dia da semana </p>
 
-Site do projeto: [link](http://axiomatic-cars.surge.sh/)
+Site do projeto: [link](http://calculating-vacation.surge.sh/)
 
-<img src="./assets/gif-site.gif" alt="gif-projeto-spoti4"></img>
+<img src="./assets/gif-planner.gif" alt="gif-projeto-planner"></img>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
